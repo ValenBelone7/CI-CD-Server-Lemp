@@ -1,4 +1,3 @@
-// ejemplo real: una utilidad que podrías usar en el front
 function formateaPrecio(n) {
   return Number(n).toFixed(2);
 }

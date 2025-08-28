@@ -1,2 +1,2 @@
 <?php
-echo "Hola, soy Valentín y esto es CI/CD 💥";
+echo "Hola, soy Valentín y esto es CI/CD";
